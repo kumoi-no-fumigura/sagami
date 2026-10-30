@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/sagami",
  "yomi": "さがみしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安中期",
+  "author": "相模",
+  "desc": "相模の家集。東国で朽ち果てる身を嘆き、折々に詠みためた歌を書き置くという序で始まり、四季の歌や人々との贈答を収める。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -6631,6 +6636,6 @@
   "poems": 588,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
